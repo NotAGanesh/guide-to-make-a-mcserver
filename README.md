@@ -1,4 +1,4 @@
-![HOMESCREEN]
+![HOMESCREEN](https://github.com/NotAGanesh/guide-to-make-a-mcserver/blob/main/IMAGES/HOMESCREEN.png?raw=true)
 
 ## Features 🎮
 - 24/7 Server
