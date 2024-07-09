@@ -5,6 +5,7 @@
 - Clean & Simple UI
 - Easy & Simple Hosting
 - Java & Bedrock Edition Cross play
+- No Port-forwarding needed
 
 ## How to Make a Minecraft Guide 🧩
 1. Download [Fork Minecraft Server Manager UI](https://www.fork.gg/)
