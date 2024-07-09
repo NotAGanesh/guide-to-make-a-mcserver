@@ -1,5 +1,9 @@
 ![HOMESCREEN](https://github.com/NotAGanesh/guide-to-make-a-mcserver/blob/main/IMAGES/HOMESCREEN.png?raw=true)
 
+<p align="center">
+    Free & 24/7 Minecraft Server! for Java & Bedrock Edition 😋
+</p>   
+
 ## Features 🎮
 - 24/7 Server
 - Unlimited Player Slots
