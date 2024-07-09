@@ -7,7 +7,7 @@
 - Java & Bedrock Edition Cross play
 - No Port-forwarding needed
 
-## How to Make a Minecraft Guide 🧩
+## How to Make a Minecraft Server Guide 🧩
 1. Download [Fork Minecraft Server Manager UI](https://www.fork.gg/)
 2. Open Fork, click on the Forge style icon & Create a Server (Choice Game Version, Server Software)
 
