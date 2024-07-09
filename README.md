@@ -1,11 +1,14 @@
 ## Features 🎮
 - 24/7 Server
+- Unlimited Player Slots
+- Custom Server Icon + motd
 - Clean & Simple UI
 - Easy & Simple Hosting
-- Java & Bedrock Edition Cross
+- Java & Bedrock Edition Cross play
+
 ## How to Make a Minecraft Guide 🧩
 1. Download [Fork Minecraft Server Manager UI](https://www.fork.gg/)
-2. Open Fork & Create a Server (Choice Game Version, Server Software)
+2. Open Fork, click on the Forge style icon & Create a Server (Choice Game Version, Server Software)
 
 > [!TIP]
 > For optimal performance, consider using **PaperMC**.
@@ -15,4 +18,6 @@
 
 > [!IMPORTANT]  
 > Ensure your GeyserMC plugin matches your Minecraft server version (e.g., **1.21, 1.16.5, etc**.) and your server software (e.g., **PaperMC, Spigot, etc**.).
+6. After you downloaded the plugin, copy the `Geyser-Spigot.jar`, in my case the file named spigot, don't worry if the file named `Geyser-Fabric` or any other.
+7. Paste the file in `Your-Server\plugins` folder, if the folder is not there then paste the file in `Your-Server\mods` folder, Because the Folder names is different according to your server software
 
