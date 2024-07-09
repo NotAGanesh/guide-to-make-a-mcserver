@@ -40,9 +40,8 @@
 
 Done!
 ## How to connect
-Both IP & PORT Different according to each edition of Minecraft,
-Now go to your agent page then select Java or Bedrock Edition if need the IP,
 
+Minecraft server connection details vary by edition (Java or Bedrock).  Find your edition's IP and port on your agent page.
 
 
 
