@@ -43,5 +43,6 @@ Done!
 
 Minecraft server connection details vary by edition (Java or Bedrock).  Find your edition's IP and port on your agent page.
 
-
+> Here is an simple example!
+![EXAMPLE](https://github.com/NotAGanesh/guide-to-make-a-mcserver/blob/main/IMAGES/IP-EXAMPLE.PNG?raw=true)
 
